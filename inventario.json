@@ -1,0 +1,5 @@
+[
+    {"id_herramienta": 1, "nombre": "Taladro", "estado": "Activa"},
+    {"id_herramienta": 2, "nombre": "Martillo", "estado": "Activa"},
+    {"id_herramienta": 3, "nombre": "Pulidora", "estado": "Activa"}
+]
